@@ -1,0 +1,15 @@
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/bin/Debug/net6.0/fp_console_app
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/bin/Debug/net6.0/fp_console_app.deps.json
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/bin/Debug/net6.0/fp_console_app.runtimeconfig.json
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/bin/Debug/net6.0/fp_console_app.dll
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/bin/Debug/net6.0/fp_console_app.pdb
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.csproj.AssemblyReference.cache
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.AssemblyInfoInputs.cache
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.AssemblyInfo.cs
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.csproj.CoreCompileInputs.cache
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.dll
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/refint/fp_console_app.dll
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.pdb
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/fp_console_app.genruntimeconfig.cache
+/Users/yangsiyin/Codes/fp_console_app/fp_console_app/obj/Debug/net6.0/ref/fp_console_app.dll
