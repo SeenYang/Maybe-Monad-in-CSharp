@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
+using System.Collections.Generic;
 using fp_console_app;
 
 var ctx1 = new CustomiseContext { KeyValuePairs = new Dictionary<string, string> { { "otherKeys", "fake-org-id" } } };
